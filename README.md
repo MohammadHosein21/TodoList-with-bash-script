@@ -13,5 +13,10 @@ To find the desired task, we use the find command, which takes the title of the 
 
 To change the task to completed, we use the done command, which takes the task number shown in the list as input.(done)
 
+The number of zero is considered for undone tasks and the number of one is considered for completed tasks. The number one indicates that a task has been completed.
 
+If a command other than the implemented commands is entered, the message Command Not Supported! is displayed.
 
+![Li1](https://user-images.githubusercontent.com/48368146/215870375-e7d5fe7f-2137-41ce-8d76-f3760049a654.png)
+
+![Li2](https://user-images.githubusercontent.com/48368146/215870501-c8c5f625-1464-4cbe-bd36-5aa792efffc8.png)
