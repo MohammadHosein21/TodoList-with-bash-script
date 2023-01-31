@@ -1,4 +1,4 @@
-# todoList-by-bash-script
+# TodoList-by-bash-script
 A todo list is written with bash script for Linux where you can add a task to it, search for the task in it, show the tasks as a list, add the tasks to the done state and cleared the task list.
 
 To add a task to the list of tasks, we use the add command, which has two options -t (--title) and -p (--priority). The first option is for job title and the second option is for job priority. Entering title is mandatory and entering priority is optional.
